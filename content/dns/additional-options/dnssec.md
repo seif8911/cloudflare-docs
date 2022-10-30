@@ -54,7 +54,7 @@ For more help with DNSSEC, refer to [Troubleshooting DNSSEC](https://support.clo
 If your registrar does not support DNSSEC with Cloudflare's preferred cipher choice (Algorithm 13), you have several options:
 
 - Contact your registrar to ask for DNSSEC with modern encryption.
-- Transfer your domain to a different registrar that supports DNSSEC with Algorithm 13
+- Transfer your domain to a different registrar that supports DNSSEC with Algorithm 13.
 - File a [complaint with ICANN](https://forms.icann.org/en/resources/compliance/complaints/registrars/standards-complaint-form), citing your registrar's lack of compliance.
 
 If your top-level domain does not support DNSSEC with Algorithm 13, [contact that top-level domain](https://www.iana.org/domains/root/db).
